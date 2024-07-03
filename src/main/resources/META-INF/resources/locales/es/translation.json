@@ -1,0 +1,88 @@
+{
+  "Components": {
+    "CountryPicker": {
+      "Labels": {
+        "all": "Todos los países",
+        "selected": "Países seleccionados"
+      },
+      "Warnings": {
+        "max-countries_one": "Este perfil solo admite {{count}} país",
+        "max-countries_other": "Este perfil solo admite {{count}} países"
+      }
+    },
+    "CreateUserModal": {
+      "Buttons": {
+        "register": "Registrar"
+      },
+      "Labels": {
+        "TypesOfUser": {
+          "external": "Externo",
+          "internal": "Interno"
+        },
+        "dialog-tittle": "Registrar nuevo usuario",
+        "email": "Correo electrónico",
+        "full-name": "Nombre completo",
+        "phone-number": "Teléfono",
+        "profile": "Perfil",
+        "user-type": "Tipo de usuario",
+        "username": "Nombre de usuario"
+      }
+    },
+    "LanguagePicker": {
+      "Labels": {
+        "select-language": "Elige tu idioma"
+      }
+    },
+    "ProfileMenu": {
+      "Buttons": {
+        "ChangePassword": {
+          "description": "Aquí puedes cambiar tu contraseña",
+          "title": "Cambiar contraseña"
+        },
+        "EditProfile": {
+          "description": "Aquí puedes editar tus datos",
+          "title": "Editar perfil"
+        },
+        "Exit": {
+          "description": "Cierra tu sesión",
+          "title": "Salir"
+        }
+      }
+    }
+  },
+  "Global": {
+    "app-title": "Demo with hilla"
+  },
+  "Views": {
+    "MainLayout": {
+      "Buttons": {
+        "AdminMenu": {
+          "countries": "Países",
+          "profiles": "Perfiles",
+          "users": "Usuarios"
+        },
+        "admin-tools": "Administración",
+        "charts": "Gráficas",
+        "dashboard": "Tablero",
+        "reports": "Reportes"
+      }
+    },
+    "NotFound": {
+      "Buttons": {
+        "back-home": "Regresar al tablero"
+      },
+      "Labels": {
+        "title": "Lo sentimos, no pudimos encontrar esta página.",
+        "description": "Pero no te preocupes, puedes regresar a la página principal"
+      }
+    },
+    "Users": {
+      "Labels": {
+        "tittle": "Usuarios"
+      },
+      "Buttons": {
+        "create": "Nuevo usuario"
+      }
+    }
+  }
+}

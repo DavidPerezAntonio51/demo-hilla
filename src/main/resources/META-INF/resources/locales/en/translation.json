@@ -1,0 +1,87 @@
+{
+  "Components": {
+    "CountryPicker": {
+      "Labels": {
+        "all": "All Countries",
+        "selected": "Selected Countries"
+      },
+      "Warnings": {
+        "max-countries_one": "This profile only allow {{count}} country",
+        "max-countries_other": "This profile only allow {{count}} countries"
+      }
+    },
+    "CreateUserModal": {
+      "Buttons": {
+        "register": "Register"
+      },
+      "Labels": {
+        "TypesOfUser": {
+          "external": "External",
+          "internal": "Internal"
+        },
+        "dialog-tittle": "Register new user",
+        "email": "Email",
+        "full-name": "Full Name",
+        "phone-number": "Phone Number",
+        "profile": "Profile",
+        "user-type": "User Type",
+        "username": "Username"
+      }
+    },
+    "LanguagePicker": {
+      "Labels": {
+        "select-language": "Choose Language"
+      }
+    },
+    "ProfileMenu": {
+      "Buttons": {
+        "ChangePassword": {
+          "description": "You can change your password in this section",
+          "title": "Change Password"
+        },
+        "EditProfile": {
+          "description": "You can edit your profile in this section",
+          "title": "Edit Profile"
+        },
+        "Exit": {
+          "description": "Close your session",
+          "title": "Exit"
+        }
+      }
+    }
+  },
+  "Global": {
+    "app-title": "Demo with hilla"
+  },
+  "Views": {
+    "MainLayout": {
+      "Buttons": {
+        "AdminMenu": {
+          "profiles": "Profiles",
+          "users": "Users"
+        },
+        "admin-tools": "Administration",
+        "charts": "Charts",
+        "dashboard": "Dashboard",
+        "reports": "Reports"
+      }
+    },
+    "NotFound": {
+      "Buttons": {
+        "back-home": "Back to Dashboard"
+      },
+      "Labels": {
+        "title": "Sorry, we couldn't find this page.",
+        "description": "But don’t worry, you can go back to dashboard."
+      }
+    },
+    "Users": {
+      "Labels": {
+        "tittle": "Users"
+      },
+      "Buttons": {
+        "create": "New User"
+      }
+    }
+  }
+}

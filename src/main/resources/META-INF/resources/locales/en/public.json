@@ -1,0 +1,24 @@
+{
+  "Components": {
+    "LanguagePicker": {
+      "Labels": {
+        "select-language": "Choose Language"
+      }
+    }
+  },
+  "Global": {
+    "app-title": "Demo with hilla"
+  },
+  "Views": {
+    "Login": {
+      "Buttons": {
+        "forgot-password": "Recovery your password",
+        "sing-in": "Sing In"
+      },
+      "Labels": {
+        "password": "Password",
+        "username": "Username"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Components": {
+    "LanguagePicker": {
+      "Labels": {
+        "select-language": "Elige tu idioma"
+      }
+    }
+  },
+  "Global": {
+    "app-title": "Demo Hilla"
+  },
+  "Views": {
+    "Login": {
+      "Buttons": {
+        "forgot-password":"Recupera tu contraseña",
+        "sing-in": "Iniciar Sesión"
+      },
+      "Labels": {
+        "password": "Contraseña",
+        "username": "Nombre de usuario"
+      }
+    }
+  }
+}
