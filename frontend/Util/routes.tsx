@@ -15,7 +15,7 @@ const EditProfileView = lazy(async ()=>import("Frontend/views/EditProfile/EditPr
 export const routes: readonly RouteObject[] = protectRoutes([
   {
       element: <MainLayout/>,
-      handle:{title:"sva2",requiresLogin:true},
+      handle:{title:"demo-hilla",requiresLogin:true},
       children:[
           {path:"/dashboard", element:<div></div>, handle:{title:"Dashboard", requiresLogin:true}},
           {path:"/reports",element:<div></div>, handle:{title:"Reports", requiresLogin: true}},
